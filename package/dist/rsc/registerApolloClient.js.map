@@ -1,0 +1,1 @@
+{"version":3,"file":"registerApolloClient.js","sourceRoot":"","sources":["../../src/rsc/registerApolloClient.tsx"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;AAAA,uBAAqB;AAGrB,6CAA+B;AAE/B,SAAgB,oBAAoB,CAAC,UAAmC;IACtE,MAAM,SAAS,GAAG,KAAK,CAAC,KAAK,CAAC,UAAU,CAAC,CAAC;IAC1C,OAAO;QACL,SAAS;KACV,CAAC;AACJ,CAAC;AALD,oDAKC"}
